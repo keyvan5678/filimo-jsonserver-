@@ -1,0 +1,586 @@
+{
+"menu":[
+    {
+        "id":1,
+        "name":"فیلیمو",
+        "href":"#"
+    },
+    {
+        "id":2,
+        "name":"فیلیموتور",
+        "href":"#"
+    },
+    {
+        "id":3,
+        "name":"فیلم",
+        "href":"#"
+    },
+    {
+        "id":4,
+        "name":"سریال",
+        "href":"#"
+    },
+    {
+        "id":5,
+        "name":"ایرانی",
+        "href":"#"
+    },
+    {
+        "id":6,
+        "name":"مدرسه",
+        "href":"#"
+    },
+    {
+        "id":7,
+        "name":"خارجی",
+        "href":"#"
+    },
+    {
+        "id":8,
+        "name":"مجموعه ها",
+        "href":"#"
+    },
+    {
+        "id":9,
+        "name":"کودک",
+        "href":"#"
+    },
+    {
+        "id":0,
+        "name":"جستجو",
+        "href":"#"
+    }
+],
+    "login" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"ورود"
+        }
+    ],
+    "subscribe" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خرید اشتراک"
+        }
+    ],
+    "head1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"نود و پنج هزار فیلم و سریال برای تماشا"
+        },
+        {
+            "id":2,
+            "href":"#",
+            "name":"میتونی دانلود کنی و بعدا ببینی"
+        },
+        {
+            "id":3,
+            "href":"#",
+            "name":"میتونی یک عضو مخصوص کودت بسازی"
+        }
+        
+    ],
+    "kharid" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خرید اشتراک و تماشا"
+        }
+    ],
+    "zirebutton" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"تخفیف ویژه برای کاربران جدید"
+        }
+    ],
+    "mahbobspn" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"محبوب ترین های فیلیمو"
+        },
+        {
+            "id":2,
+            "href":"#",
+            "name":"سریال"
+        },
+        {
+            "id":3,
+            "href":"#",
+            "name":"فیلم"
+        }
+    ],
+    "dastgah" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"تماشای فیلیمو با همه دستگاه‌ها"
+        }
+        
+    ],
+    "btndastgah" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خرید اشتراک و تماشا"
+        }
+    ],
+    "tamasha" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":" چطور با تلویزیون، فیلیمو تماشا کنم؟ "
+        }
+    ],
+    "tamashabtn" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"ویدیوهای آموزشی تماشا با تلویزیون"
+        }
+    ],
+    "dastgahspn1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
+        }
+        
+    ],
+    "dastgahspn2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"کامپیوتر و لپ‌تاپ"
+        }
+        
+    ],
+    "dastgahspn3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"windows PC - MacOS - Chorom OS"
+        }
+        
+    ],
+    "dastgahspn4" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"موبایل و تبلت"
+        }
+        
+    ],
+    "dastgahspn5" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
+        }
+        
+    ],
+    "dastgahspn6" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"کنسول‌های بازی (Browser)"
+        }
+        
+    ],
+    "dastgahspn7" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"Xbox Series S - Xbox Seris X - PS5 - PS4"
+        }
+        
+    ],
+    "tamashaspn1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید"
+        }
+        
+    ],
+    "tamashaspn2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"تلویزیون"
+        }
+        
+    ],
+    "tamashaspn3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"
+        }
+        
+    ],
+    "tamashaspn4" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"اندروید تی‌وی"
+        }
+        
+    ],
+    "tamashaspn5" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
+        }
+        
+    ],
+    "mahbob3" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/mov_150745_216405-b.webp"
+        },
+        {
+            "id":2,
+            "href":"./public/css/desktop/mov_150184_196881-b.webp"
+        },
+        {
+            "id":3,
+            "href":"./public/css/desktop/mov_150715_189646-b.webp"
+        },
+        {
+            "id":4,
+            "href":"./public/css/desktop/mov_150742_189794-b.webp"
+        },
+        {
+            "id":5,
+            "href":"./public/css/desktop/mov_150743_196782-b.webp"
+        },
+        {
+            "id":6,
+            "href":"./public/css/desktop/mov_150744_216302-b.webp"
+        }
+
+        
+    ],
+    "swiperimg" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/mov_134994_187795-b.webp"
+        },
+        {
+            "id":2,
+            "href":"./public/css/desktop/mov_134994_187795-b.webp"
+        },
+        {
+            "id":3,
+            "href":"./public/css/desktop/mov_134994_187795-b.webp"
+        },
+        {
+            "id":4,
+            "href":"./public/css/desktop/mov_134994_187795-b.webp"
+        }
+    
+    ],
+    "startspn" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"با فیلیمو بی وقفه فیلم ببین"
+        }
+        
+    ],
+    "startbtn1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"کنترل همیشه دست توست"
+        }
+        
+    ],
+    "imgtamasha" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/TVBG (1).webp"
+            
+        }
+        
+    ],
+    "dastgah1" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/deviceYaghi.webp"
+            
+        }
+        
+    ],
+    "mahbobspn1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"بازنده"
+        }
+        
+    ],
+    "mahbobspn2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"کارگردان:امین حسین پور"
+        }
+        
+    ],
+    "mahbobspn5" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"با دستگیری زنی که در هتل کودک را در آغوش داشت، تقریبا همه چیز در نگاه اول برای رسیدن به جانا راحت به نظر می رسد اما ..."
+        }
+        
+    ],
+    "mahbobspn3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"جنایی"
+        }
+        
+    ],
+    "mahbobspn4" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"رازآلود"
+        }
+        
+    ],
+    "cartoonbtn1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"فیلیمو کودک بساز"
+        }
+    ],
+    "cartoonbtn2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"تماشا فیلیمو کودک"
+        }
+    ],
+    "cartoonh1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"دنیایی متنوع از فیلم و کارتون‌های کودکانه"
+        }
+    ],
+    "cartoonp" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":" ساخت فیلیمو کودک این امکان را می‌دهد که با انتخاب سن فرزندتان،یک فضای امن برای<br> تماشای کودک بسازید؛یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و<br> سریال‌ها دسترسی نداشته‌باشد"
+        }
+    ],
+    "cartoonimg" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/bg-kids.webp"
+        }
+        
+    ],
+    "onlinecinema3p" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":" خرید یک بلیت برای تماشا همراه با همه خانواده"
+        },
+        {
+            "id":2,
+            "href":"#",
+            "name":" ۸ ساعت زمان برای مشاهده فیلم در هر کجا"
+        },
+        {
+            "id":3,
+            "href":"#",
+            "name":" ۸ ساعت زمان برای مشاهده فیلم در هر کجا"
+        }
+    ],
+    "onlinecinemaimg1" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/mov_150478_188543-b.webp"
+        }
+        
+    ],
+    "onlinecinemaimg2" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/mov_150478_188543-b.webp"
+        }
+        
+    ],
+    "onlinecinemaimg3" :[
+        {
+            "id":1,
+            "href":"./public/css/desktop/mov_150478_188543-b.webp"
+        }
+        
+    ],
+    "onlinecinemaspn1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خورشید ان ماه"
+        },
+        {
+            "id":2,
+            "href":"#",
+            "name":"کارگردان:  n"
+        },
+        {
+            "id":3,
+            "href":"#",
+            "name":"درام"
+        }
+    ],
+    "onlinecinemaspn2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خورشید ان ماه"
+        },
+        {
+            "id":2,
+            "href":"#",
+            "name":"کارگردان:  n"
+        },
+        {
+            "id":3,
+            "href":"#",
+            "name":"درام"
+        }
+    ],
+    "onlinecinemaspn3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خورشید ان ماه"
+        },
+        {
+            "id":2,
+            "href":"#",
+            "name":"کارگردان:  n"
+        },
+        {
+            "id":3,
+            "href":"#",
+            "name":"درام"
+        }
+    ],
+    "kharidblit1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خرید بیلت"
+        }
+    ],
+    "kharidblit2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خرید بلیت"
+        }
+    ],
+    "kharidblit3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خرید بلیت"
+        }
+    ],
+    "commentup" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"نظر کاربران بعد از تماشای فیلیمو"
+        }
+    ],
+    "commentp1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":" از وقتی فیلیمو رو نصب کردم دیگه تلوزیون نگاه نمیکنم"
+        }
+    ],
+    "commentp2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":" از وقتی فیلیمو رو نصب کردم دیگه تلوزیون نگاه نمیکنم"
+        }
+    ],
+    "commentp3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":" از وقتی فیلیمو رو نصب کردم دیگه تلوزیون نگاه نمیکنم"
+        }
+    ],
+    "ramtin1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"رامتین"
+        }
+    ],
+    "ramtin2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"رامتین"
+        }
+    ],
+    "ramtin3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"رامتین"
+        }
+    ],
+    "centerp1" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"هزاران فیلم و سریال خارجی (دوبله و زیرنویس)"
+        }
+    ],
+    "centerp2" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"پشتیبانی 24 ساعته برای راهنمایی شما"
+        }
+    ],
+    "centerp3" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"پشتیبانی 24 ساعته برای راهنمایی شما"
+        }
+    ],
+    "bottombuy" :[
+        {
+            "id":1,
+            "href":"#",
+            "name":"خرید اشتراک و تماشا"
+        }
+    ]
+   
+    
+    
+}
